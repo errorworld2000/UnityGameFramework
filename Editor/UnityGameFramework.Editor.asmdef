@@ -1,0 +1,18 @@
+{
+    "name": "UnityGameFramework.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3f561c4902dfadd4b8606485171f9895"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

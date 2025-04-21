@@ -1,0 +1,10 @@
+{
+  "name": "com.jungle.unitygameframework",
+  "version": "1.0.0",
+  "displayName": "Unity Game Framework",
+  "description": "A Unity Game Framework",
+  "unity": "6000.0",
+  "author": {
+    "name": "jungle"
+  }
+}
