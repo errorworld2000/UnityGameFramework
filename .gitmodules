@@ -1,0 +1,3 @@
+[submodule "Libraries/GameFramework"]
+	path = Libraries/GameFramework
+	url = https://github.com/errorworld2000/GameFramework.git
